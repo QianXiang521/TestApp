@@ -16,6 +16,7 @@
 		34F04C9820B6A71500FA8600 /* cesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F04C9720B6A71500FA8600 /* cesUITests.swift */; };
 		34F04CA620B6A99900FA8600 /* fffsfsff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 34F04CA520B6A99900FA8600 /* fffsfsff.swift */; };
 		34F04CA920B6B5BF00FA8600 /* type.gif in Resources */ = {isa = PBXBuildFile; fileRef = 34F04CA820B6B5BF00FA8600 /* type.gif */; };
+		34F04CAB20B6B8BE00FA8600 /* QQ20180524-165406-HD.gif in Resources */ = {isa = PBXBuildFile; fileRef = 34F04CAA20B6B8BE00FA8600 /* QQ20180524-165406-HD.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		34F04C9920B6A71500FA8600 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		34F04CA520B6A99900FA8600 /* fffsfsff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fffsfsff.swift; sourceTree = "<group>"; };
 		34F04CA820B6B5BF00FA8600 /* type.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = type.gif; sourceTree = "<group>"; };
+		34F04CAA20B6B8BE00FA8600 /* QQ20180524-165406-HD.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = "QQ20180524-165406-HD.gif"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -134,6 +136,7 @@
 		34F04CA720B6B5BF00FA8600 /* gif */ = {
 			isa = PBXGroup;
 			children = (
+				34F04CAA20B6B8BE00FA8600 /* QQ20180524-165406-HD.gif */,
 				34F04CA820B6B5BF00FA8600 /* type.gif */,
 			);
 			path = gif;
@@ -244,6 +247,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				34F04C8220B6A71500FA8600 /* LaunchScreen.storyboard in Resources */,
+				34F04CAB20B6B8BE00FA8600 /* QQ20180524-165406-HD.gif in Resources */,
 				34F04C7F20B6A71500FA8600 /* Assets.xcassets in Resources */,
 				34F04CA920B6B5BF00FA8600 /* type.gif in Resources */,
 				34F04C7D20B6A71400FA8600 /* Main.storyboard in Resources */,
